@@ -12,5 +12,8 @@ body {
 }
 
 .nisse {
-    width: 100%;
+  display: grid;
+  width: 100%;
+ 
 }
+
